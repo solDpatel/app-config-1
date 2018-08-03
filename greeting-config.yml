@@ -7,9 +7,9 @@ management:
     enabled: false
 
 logging:
-  level:
-    io:
-      pivotal: DEBUG
+ level:
+   io:
+     pivotal: INFO
 
 greeting:
   displayFortune: true
